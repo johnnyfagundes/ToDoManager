@@ -1,12 +1,12 @@
 import firebase from 'firebase';
 
 const config = {
-    apiKey: "AIzaSyCuO4nlNQgx2RpnZt4J3WqOR9yPIZs_nsI",
-    authDomain: "todomanager-59f23.firebaseapp.com",
-    databaseURL: "https://todomanager-59f23.firebaseio.com",
-    projectId: "todomanager-59f23",
-    storageBucket: "todomanager-59f23.appspot.com",
-    messagingSenderId: "441662678507"
+    apiKey: "",
+    authDomain: "",
+    databaseURL: "",
+    projectId: "",
+    storageBucket: "",
+    messagingSenderId: ""
 };
 
 export const initializeFirebaseApi = () => firebase.initializeApp(config);
