@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>97DD94FE-940D-46D3-8F62-43B1CCE4837F</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>97DD94FE-940D-46D3-8F62-43B1CCE4837F.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>ToDoManager project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>ToDoManager</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building project ToDoManager with scheme ToDoManager and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>580338814.43868601</real>
+			<key>timeStoppedRecording</key>
+			<real>580338816.27423596</real>
+			<key>title</key>
+			<string>Building project ToDoManager with scheme ToDoManager and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>97DD94FE-940D-46D3-8F62-43B1CCE4837F</string>
+		</dict>
+		<key>C8B65319-6CFB-4C09-B83E-68B86E660789</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>C8B65319-6CFB-4C09-B83E-68B86E660789.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>ToDoManager project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>ToDoManager</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building project ToDoManager with scheme ToDoManager and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>580325701.69407403</real>
+			<key>timeStoppedRecording</key>
+			<real>580325703.532722</real>
+			<key>title</key>
+			<string>Building project ToDoManager with scheme ToDoManager and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>C8B65319-6CFB-4C09-B83E-68B86E660789</string>
+		</dict>
+	</dict>
+</dict>
+</plist>
